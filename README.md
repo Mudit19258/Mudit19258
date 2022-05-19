@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mudit19258
 - 👀 I’m interested in NLP, Ontology Modelling and ML
-- 🌱 I’m currently learning evrything and nothing
+- 🌱 I’m currently learning everything and nothing
 - 📫 How to reach me 
 - LinkedIn: https://www.linkedin.com/in/mudit-balooja-15885a193/
 - Instagram: https://www.instagram.com/_mudit1609/
